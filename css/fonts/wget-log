@@ -1,0 +1,44 @@
+--2017-08-20 06:55:37--  http://www.reddraft.com/css/fonts/Nexa_Free_Bold-webfont.woff2
+Resolving www.reddraft.com (www.reddraft.com)... 54.197.247.129, 54.204.29.243, 50.19.238.185, ...
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.247.129|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.204.29.243|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|50.19.238.185|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.228.226|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.253.169|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.225.192.161|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.255.104|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.204.24.181|:80... failed: Connection timed out.
+Retrying.
+
+--2017-08-20 07:13:05--  (try: 2)  http://www.reddraft.com/css/fonts/Nexa_Free_Bold-webfont.woff2
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.247.129|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.204.29.243|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|50.19.238.185|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.228.226|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.253.169|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.225.192.161|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.255.104|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.204.24.181|:80... failed: Connection timed out.
+Retrying.
+
+--2017-08-20 07:30:34--  (try: 3)  http://www.reddraft.com/css/fonts/Nexa_Free_Bold-webfont.woff2
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.247.129|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.204.29.243|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|50.19.238.185|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.228.226|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.253.169|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.225.192.161|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.255.104|:80... failed: Connection timed out.
+Connecting to www.reddraft.com (www.reddraft.com)|54.204.24.181|:80... failed: Connection timed out.
+Retrying.
+
+--2017-08-20 07:48:06--  (try: 4)  http://www.reddraft.com/css/fonts/Nexa_Free_Bold-webfont.woff2
+Connecting to www.reddraft.com (www.reddraft.com)|54.197.247.129|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22608 (22K) [application/font-woff2]
+Saving to: ‘Nexa_Free_Bold-webfont.woff2.1’
+
+     0K .......... .......... ..                              100% 77,3K=0,3s
+
+2017-08-20 07:48:38 (77,3 KB/s) - ‘Nexa_Free_Bold-webfont.woff2.1’ saved [22608/22608]
+

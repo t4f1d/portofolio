@@ -1,0 +1,98 @@
+/**** HEADER ANIMATIONS ******/
+.js-wp-animate-logo,
+.js-wp-animate-menu {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 7.75s;
+          animation-delay: 7.75s;
+}
+
+.js-wp-animate-hero-sub-heading-1 {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 8s;
+          animation-delay: 8s;
+}
+.js-wp-animate-hero-main-heading {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 8.25s;
+          animation-delay: 8.25s;
+}
+
+.js-wp-animate-hero-sub-heading-2 {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 8.5s;
+          animation-delay: 8.5s;
+}
+
+.js-wp-animate-scroll-container{
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 9s;
+          animation-delay: 9s;
+}
+
+
+/**** PROFILE ANIMATIONS ******/
+
+/*hide before applaying aimated class*/
+.js-wp-animate-profile-head-shot,
+.js-wp-animate-profile-description,
+.js-wp-animate-social-wrapper  {
+  opacity: 0;
+}
+/*show after applaying animated class*/
+.js-wp-animate-profile-head-shot.animated,
+.js-wp-animate-profile-description.animated,
+.js-wp-animate-social-wrapper.animated {
+  opacity: 1;
+}
+
+.js-wp-animate-profile-head-shot,
+.js-wp-animate-profile-description {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+.js-wp-animate-social-wrapper {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+}
+
+.js-wp-animate-icon,
+.js-wp-animate-experience-sub-heading,
+.js-wp-animate-experience-skills {
+  opacity: 0;
+}
+.js-wp-animate-icon.animated,
+.js-wp-animate-experience-sub-heading.animated,
+.js-wp-animate-experience-skills.animated {
+  opacity: 1;
+}
+
+.js-wp-animate-icon {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+.js-wp-animate-experience-sub-heading{
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 1.25s;
+          animation-delay: 1.25s;
+}
+
+.js-wp-animate-experience-skills  {
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+}
