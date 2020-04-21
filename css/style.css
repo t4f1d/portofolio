@@ -1090,3 +1090,9 @@ footer a:hover {
   fill: #FFF;
   transform: rotate(360deg);
 }
+
+@media only screen and (max-width: 1439px){
+  .js-wp-animate-profile-description{
+    padding-left: 14% !important;
+  }
+}
